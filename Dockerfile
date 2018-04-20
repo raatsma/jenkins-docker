@@ -9,4 +9,4 @@ RUN mkdir -p /tmp/download && \
  groupadd -g 999 docker && \
  usermod -aG staff,docker jenkins
 
-user df-int-test
+user jenkins
